@@ -1,6 +1,7 @@
-streamlit  
+streamlit
 matplotlib
-numpy 
-pandas 
-seaborn 
-plotly.express
+numpy
+pandas
+seaborn
+plotly_express
+plotly.graph_objects

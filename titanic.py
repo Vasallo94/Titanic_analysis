@@ -27,7 +27,7 @@ st.set_option("deprecation.showPyplotGlobalUse", False)
 
 # ----------------------LECTURA DE DATOS Y PREPROCESAMIENTO------------------#
 # Leemos el csv con los datos del Titanic y creamos el dataframe
-data = pd.read_csv('data\titanic.csv')
+data = pd.read_csv('data/titanic.csv')
 titan = pd.DataFrame(data=data)
 
 # Corregimos los nombres de las columnas

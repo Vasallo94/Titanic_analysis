@@ -32,6 +32,8 @@ def main():
     # Leemos el csv con los datos del Titanic y creamos el dataframe
     data = pd.read_csv('data/titanic_proces.csv')
     titan = pd.DataFrame(data=data)
+    
+    st.image(img/00-Profile_H2.webp,use_container_width=True )
 
     # --------------------TITLE----------------------------#
     st.title("Titanic: my first data analysis")

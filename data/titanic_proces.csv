@@ -1,0 +1,892 @@
+PASSENGERID,SURVIVED,PCLASS,NAME,SEX,AGE,SIBSP,PARCH,TICKET,FARE,CABIN,EMBARKED
+1,Dead,Tercera,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,Unknown,Southampton
+2,Alive,Primera,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,Cherburgo
+3,Alive,Tercera,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,Unknown,Southampton
+4,Alive,Primera,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,Southampton
+5,Dead,Tercera,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,Unknown,Southampton
+6,Dead,Tercera,"Moran, Mr. James",male,24.0,0,0,330877,8.4583,Unknown,Queenstown
+7,Dead,Primera,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,Southampton
+8,Dead,Tercera,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,Unknown,Southampton
+9,Alive,Tercera,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,Unknown,Southampton
+10,Alive,Segunda,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,Unknown,Cherburgo
+11,Alive,Tercera,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,Southampton
+12,Alive,Primera,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,Southampton
+13,Dead,Tercera,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,Unknown,Southampton
+14,Dead,Tercera,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,Unknown,Southampton
+15,Dead,Tercera,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,Unknown,Southampton
+16,Alive,Segunda,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,Unknown,Southampton
+17,Dead,Tercera,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,Unknown,Queenstown
+18,Alive,Segunda,"Williams, Mr. Charles Eugene",male,24.0,0,0,244373,13.0,Unknown,Southampton
+19,Dead,Tercera,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,Unknown,Southampton
+20,Alive,Tercera,"Masselmani, Mrs. Fatima",female,24.0,0,0,2649,7.225,Unknown,Cherburgo
+21,Dead,Segunda,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,Unknown,Southampton
+22,Alive,Segunda,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,Southampton
+23,Alive,Tercera,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,Unknown,Queenstown
+24,Alive,Primera,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,Southampton
+25,Dead,Tercera,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,Unknown,Southampton
+26,Alive,Tercera,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,Unknown,Southampton
+27,Dead,Tercera,"Emir, Mr. Farred Chehab",male,24.0,0,0,2631,7.225,Unknown,Cherburgo
+28,Dead,Primera,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,Southampton
+29,Alive,Tercera,"O'Dwyer, Miss. Ellen ""Nellie""",female,24.0,0,0,330959,7.8792,Unknown,Queenstown
+30,Dead,Tercera,"Todoroff, Mr. Lalio",male,24.0,0,0,349216,7.8958,Unknown,Southampton
+31,Dead,Primera,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,Unknown,Cherburgo
+32,Alive,Primera,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,24.0,1,0,PC 17569,146.5208,B78,Cherburgo
+33,Alive,Tercera,"Glynn, Miss. Mary Agatha",female,24.0,0,0,335677,7.75,Unknown,Queenstown
+34,Dead,Segunda,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,Unknown,Southampton
+35,Dead,Primera,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,Unknown,Cherburgo
+36,Dead,Primera,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,Unknown,Southampton
+37,Alive,Tercera,"Mamee, Mr. Hanna",male,24.0,0,0,2677,7.2292,Unknown,Cherburgo
+38,Dead,Tercera,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,Unknown,Southampton
+39,Dead,Tercera,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,Unknown,Southampton
+40,Alive,Tercera,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,Unknown,Cherburgo
+41,Dead,Tercera,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,Unknown,Southampton
+42,Dead,Segunda,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,Unknown,Southampton
+43,Dead,Tercera,"Kraeff, Mr. Theodor",male,24.0,0,0,349253,7.8958,Unknown,Cherburgo
+44,Alive,Segunda,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,Unknown,Cherburgo
+45,Alive,Tercera,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,Unknown,Queenstown
+46,Dead,Tercera,"Rogers, Mr. William John",male,24.0,0,0,S.C./A.4. 23567,8.05,Unknown,Southampton
+47,Dead,Tercera,"Lennon, Mr. Denis",male,24.0,1,0,370371,15.5,Unknown,Queenstown
+48,Alive,Tercera,"O'Driscoll, Miss. Bridget",female,24.0,0,0,14311,7.75,Unknown,Queenstown
+49,Dead,Tercera,"Samaan, Mr. Youssef",male,24.0,2,0,2662,21.6792,Unknown,Cherburgo
+50,Dead,Tercera,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,Unknown,Southampton
+51,Dead,Tercera,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,Unknown,Southampton
+52,Dead,Tercera,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,Unknown,Southampton
+53,Alive,Primera,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,Cherburgo
+54,Alive,Segunda,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,Unknown,Southampton
+55,Dead,Primera,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,Cherburgo
+56,Alive,Primera,"Woolner, Mr. Hugh",male,24.0,0,0,19947,35.5,C52,Southampton
+57,Alive,Segunda,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,Unknown,Southampton
+58,Dead,Tercera,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,Unknown,Cherburgo
+59,Alive,Segunda,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+60,Dead,Tercera,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,Unknown,Southampton
+61,Dead,Tercera,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,Unknown,Cherburgo
+62,Alive,Primera,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,Southampton
+63,Dead,Primera,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,Southampton
+64,Dead,Tercera,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,Unknown,Southampton
+65,Dead,Primera,"Stewart, Mr. Albert A",male,24.0,0,0,PC 17605,27.7208,Unknown,Cherburgo
+66,Alive,Tercera,"Moubarek, Master. Gerios",male,24.0,1,1,2661,15.2458,Unknown,Cherburgo
+67,Alive,Segunda,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,Southampton
+68,Dead,Tercera,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,Unknown,Southampton
+69,Alive,Tercera,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,Unknown,Southampton
+70,Dead,Tercera,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,Unknown,Southampton
+71,Dead,Segunda,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,Unknown,Southampton
+72,Dead,Tercera,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,Unknown,Southampton
+73,Dead,Segunda,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,Unknown,Southampton
+74,Dead,Tercera,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,Unknown,Cherburgo
+75,Alive,Tercera,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,Unknown,Southampton
+76,Dead,Tercera,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,Southampton
+77,Dead,Tercera,"Staneff, Mr. Ivan",male,24.0,0,0,349208,7.8958,Unknown,Southampton
+78,Dead,Tercera,"Moutal, Mr. Rahamin Haim",male,24.0,0,0,374746,8.05,Unknown,Southampton
+79,Alive,Segunda,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,29.0,Unknown,Southampton
+80,Alive,Tercera,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,Unknown,Southampton
+81,Dead,Tercera,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,Unknown,Southampton
+82,Alive,Tercera,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,Unknown,Southampton
+83,Alive,Tercera,"McDermott, Miss. Brigdet Delia",female,24.0,0,0,330932,7.7875,Unknown,Queenstown
+84,Dead,Primera,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,Unknown,Southampton
+85,Alive,Segunda,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,Unknown,Southampton
+86,Alive,Tercera,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,Unknown,Southampton
+87,Dead,Tercera,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,Unknown,Southampton
+88,Dead,Tercera,"Slocovski, Mr. Selman Francis",male,24.0,0,0,SOTON/OQ 392086,8.05,Unknown,Southampton
+89,Alive,Primera,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,Southampton
+90,Dead,Tercera,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,Unknown,Southampton
+91,Dead,Tercera,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,Unknown,Southampton
+92,Dead,Tercera,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,Unknown,Southampton
+93,Dead,Primera,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,Southampton
+94,Dead,Tercera,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,Unknown,Southampton
+95,Dead,Tercera,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,Unknown,Southampton
+96,Dead,Tercera,"Shorney, Mr. Charles Joseph",male,24.0,0,0,374910,8.05,Unknown,Southampton
+97,Dead,Primera,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,Cherburgo
+98,Alive,Primera,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,Cherburgo
+99,Alive,Segunda,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,Unknown,Southampton
+100,Dead,Segunda,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,Unknown,Southampton
+101,Dead,Tercera,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,Unknown,Southampton
+102,Dead,Tercera,"Petroff, Mr. Pastcho (""Pentcho"")",male,24.0,0,0,349215,7.8958,Unknown,Southampton
+103,Dead,Primera,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,Southampton
+104,Dead,Tercera,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,Unknown,Southampton
+105,Dead,Tercera,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,Unknown,Southampton
+106,Dead,Tercera,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,Unknown,Southampton
+107,Alive,Tercera,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,Unknown,Southampton
+108,Alive,Tercera,"Moss, Mr. Albert Johan",male,24.0,0,0,312991,7.775,Unknown,Southampton
+109,Dead,Tercera,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,Unknown,Southampton
+110,Alive,Tercera,"Moran, Miss. Bertha",female,24.0,1,0,371110,24.15,Unknown,Queenstown
+111,Dead,Primera,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,Southampton
+112,Dead,Tercera,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,Unknown,Cherburgo
+113,Dead,Tercera,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,Unknown,Southampton
+114,Dead,Tercera,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,Unknown,Southampton
+115,Dead,Tercera,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,Unknown,Cherburgo
+116,Dead,Tercera,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,Unknown,Southampton
+117,Dead,Tercera,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,Unknown,Queenstown
+118,Dead,Segunda,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,Unknown,Southampton
+119,Dead,Primera,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,Cherburgo
+120,Dead,Tercera,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,Unknown,Southampton
+121,Dead,Segunda,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+122,Dead,Tercera,"Moore, Mr. Leonard Charles",male,24.0,0,0,A4. 54510,8.05,Unknown,Southampton
+123,Dead,Segunda,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,Unknown,Cherburgo
+124,Alive,Segunda,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,Southampton
+125,Dead,Primera,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,Southampton
+126,Alive,Tercera,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,Unknown,Cherburgo
+127,Dead,Tercera,"McMahon, Mr. Martin",male,24.0,0,0,370372,7.75,Unknown,Queenstown
+128,Alive,Tercera,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,Unknown,Southampton
+129,Alive,Tercera,"Peter, Miss. Anna",female,24.0,1,1,2668,22.3583,F E69,Cherburgo
+130,Dead,Tercera,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,Unknown,Southampton
+131,Dead,Tercera,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,Unknown,Cherburgo
+132,Dead,Tercera,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,Unknown,Southampton
+133,Dead,Tercera,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,Unknown,Southampton
+134,Alive,Segunda,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,Unknown,Southampton
+135,Dead,Segunda,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,Unknown,Southampton
+136,Dead,Segunda,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,Unknown,Cherburgo
+137,Alive,Primera,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,Southampton
+138,Dead,Primera,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,Southampton
+139,Dead,Tercera,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,Unknown,Southampton
+140,Dead,Primera,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,Cherburgo
+141,Dead,Tercera,"Boulos, Mrs. Joseph (Sultana)",female,24.0,0,2,2678,15.2458,Unknown,Cherburgo
+142,Alive,Tercera,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,Unknown,Southampton
+143,Alive,Tercera,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,Unknown,Southampton
+144,Dead,Tercera,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,Unknown,Queenstown
+145,Dead,Segunda,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,Unknown,Southampton
+146,Dead,Segunda,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,Unknown,Southampton
+147,Alive,Tercera,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,Unknown,Southampton
+148,Dead,Tercera,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,Unknown,Southampton
+149,Dead,Segunda,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,Southampton
+150,Dead,Segunda,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,Unknown,Southampton
+151,Dead,Segunda,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,Unknown,Southampton
+152,Alive,Primera,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,Southampton
+153,Dead,Tercera,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,Unknown,Southampton
+154,Dead,Tercera,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,Unknown,Southampton
+155,Dead,Tercera,"Olsen, Mr. Ole Martin",male,24.0,0,0,Fa 265302,7.3125,Unknown,Southampton
+156,Dead,Primera,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,Unknown,Cherburgo
+157,Alive,Tercera,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,Unknown,Queenstown
+158,Dead,Tercera,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,Unknown,Southampton
+159,Dead,Tercera,"Smiljanic, Mr. Mile",male,24.0,0,0,315037,8.6625,Unknown,Southampton
+160,Dead,Tercera,"Sage, Master. Thomas Henry",male,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+161,Dead,Tercera,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,Unknown,Southampton
+162,Alive,Segunda,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,Unknown,Southampton
+163,Dead,Tercera,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,Unknown,Southampton
+164,Dead,Tercera,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,Unknown,Southampton
+165,Dead,Tercera,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,Unknown,Southampton
+166,Alive,Tercera,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,Unknown,Southampton
+167,Alive,Primera,"Chibnall, Mrs. (Edith Martha Bowerman)",female,24.0,0,1,113505,55.0,E33,Southampton
+168,Dead,Tercera,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,Unknown,Southampton
+169,Dead,Primera,"Baumann, Mr. John D",male,24.0,0,0,PC 17318,25.925,Unknown,Southampton
+170,Dead,Tercera,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,Unknown,Southampton
+171,Dead,Primera,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,Southampton
+172,Dead,Tercera,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,Unknown,Queenstown
+173,Alive,Tercera,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,Unknown,Southampton
+174,Dead,Tercera,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,Unknown,Southampton
+175,Dead,Primera,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,Cherburgo
+176,Dead,Tercera,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,Unknown,Southampton
+177,Dead,Tercera,"Lefebre, Master. Henry Forbes",male,24.0,3,1,4133,25.4667,Unknown,Southampton
+178,Dead,Primera,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,C49,Cherburgo
+179,Dead,Segunda,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,Unknown,Southampton
+180,Dead,Tercera,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,Unknown,Southampton
+181,Dead,Tercera,"Sage, Miss. Constance Gladys",female,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+182,Dead,Segunda,"Pernot, Mr. Rene",male,24.0,0,0,SC/PARIS 2131,15.05,Unknown,Cherburgo
+183,Dead,Tercera,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,Unknown,Southampton
+184,Alive,Segunda,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,F4,Southampton
+185,Alive,Tercera,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,Unknown,Southampton
+186,Dead,Primera,"Rood, Mr. Hugh Roscoe",male,24.0,0,0,113767,50.0,A32,Southampton
+187,Alive,Tercera,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,24.0,1,0,370365,15.5,Unknown,Queenstown
+188,Alive,Primera,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,Unknown,Southampton
+189,Dead,Tercera,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,Unknown,Queenstown
+190,Dead,Tercera,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,Unknown,Southampton
+191,Alive,Segunda,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,Unknown,Southampton
+192,Dead,Segunda,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,Unknown,Southampton
+193,Alive,Tercera,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,Unknown,Southampton
+194,Alive,Segunda,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,Southampton
+195,Alive,Primera,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,Cherburgo
+196,Alive,Primera,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,Cherburgo
+197,Dead,Tercera,"Mernagh, Mr. Robert",male,24.0,0,0,368703,7.75,Unknown,Queenstown
+198,Dead,Tercera,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,Unknown,Southampton
+199,Alive,Tercera,"Madigan, Miss. Margaret ""Maggie""",female,24.0,0,0,370370,7.75,Unknown,Queenstown
+200,Dead,Segunda,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,Unknown,Southampton
+201,Dead,Tercera,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,9.5,Unknown,Southampton
+202,Dead,Tercera,"Sage, Mr. Frederick",male,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+203,Dead,Tercera,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,Unknown,Southampton
+204,Dead,Tercera,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,Unknown,Cherburgo
+205,Alive,Tercera,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,Unknown,Southampton
+206,Dead,Tercera,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,G6,Southampton
+207,Dead,Tercera,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,15.85,Unknown,Southampton
+208,Alive,Tercera,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,Unknown,Cherburgo
+209,Alive,Tercera,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,Unknown,Queenstown
+210,Alive,Primera,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,A31,Cherburgo
+211,Dead,Tercera,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,Unknown,Southampton
+212,Alive,Segunda,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,Unknown,Southampton
+213,Dead,Tercera,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,Unknown,Southampton
+214,Dead,Segunda,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,13.0,Unknown,Southampton
+215,Dead,Tercera,"Kiernan, Mr. Philip",male,24.0,1,0,367229,7.75,Unknown,Queenstown
+216,Alive,Primera,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,Cherburgo
+217,Alive,Tercera,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,Unknown,Southampton
+218,Dead,Segunda,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,27.0,Unknown,Southampton
+219,Alive,Primera,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,Cherburgo
+220,Dead,Segunda,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,Unknown,Southampton
+221,Alive,Tercera,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,Unknown,Southampton
+222,Dead,Segunda,"Bracken, Mr. James H",male,27.0,0,0,220367,13.0,Unknown,Southampton
+223,Dead,Tercera,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,Unknown,Southampton
+224,Dead,Tercera,"Nenkoff, Mr. Christo",male,24.0,0,0,349234,7.8958,Unknown,Southampton
+225,Alive,Primera,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,Southampton
+226,Dead,Tercera,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,Unknown,Southampton
+227,Alive,Segunda,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,Unknown,Southampton
+228,Dead,Tercera,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,Unknown,Southampton
+229,Dead,Segunda,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,13.0,Unknown,Southampton
+230,Dead,Tercera,"Lefebre, Miss. Mathilde",female,24.0,3,1,4133,25.4667,Unknown,Southampton
+231,Alive,Primera,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,Southampton
+232,Dead,Tercera,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,Unknown,Southampton
+233,Dead,Segunda,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,13.5,Unknown,Southampton
+234,Alive,Tercera,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,Unknown,Southampton
+235,Dead,Segunda,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,10.5,Unknown,Southampton
+236,Dead,Tercera,"Harknett, Miss. Alice Phoebe",female,24.0,0,0,W./C. 6609,7.55,Unknown,Southampton
+237,Dead,Segunda,"Hold, Mr. Stephen",male,44.0,1,0,26707,26.0,Unknown,Southampton
+238,Alive,Segunda,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,Unknown,Southampton
+239,Dead,Segunda,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,Unknown,Southampton
+240,Dead,Segunda,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,Unknown,Southampton
+241,Dead,Tercera,"Zabour, Miss. Thamine",female,24.0,1,0,2665,14.4542,Unknown,Cherburgo
+242,Alive,Tercera,"Murphy, Miss. Katherine ""Kate""",female,24.0,1,0,367230,15.5,Unknown,Queenstown
+243,Dead,Segunda,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,Unknown,Southampton
+244,Dead,Tercera,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,7.125,Unknown,Southampton
+245,Dead,Tercera,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,Unknown,Cherburgo
+246,Dead,Primera,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Queenstown
+247,Dead,Tercera,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,7.775,Unknown,Southampton
+248,Alive,Segunda,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,Unknown,Southampton
+249,Alive,Primera,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,D35,Southampton
+250,Dead,Segunda,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,26.0,Unknown,Southampton
+251,Dead,Tercera,"Reed, Mr. James George",male,24.0,0,0,362316,7.25,Unknown,Southampton
+252,Dead,Tercera,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,10.4625,G6,Southampton
+253,Dead,Primera,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,Southampton
+254,Dead,Tercera,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,16.1,Unknown,Southampton
+255,Dead,Tercera,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,Unknown,Southampton
+256,Alive,Tercera,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,Unknown,Cherburgo
+257,Alive,Primera,"Thorne, Mrs. Gertrude Maybelle",female,24.0,0,0,PC 17585,79.2,Unknown,Cherburgo
+258,Alive,Primera,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,Southampton
+259,Alive,Primera,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,Unknown,Cherburgo
+260,Alive,Segunda,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,Unknown,Southampton
+261,Dead,Tercera,"Smith, Mr. Thomas",male,24.0,0,0,384461,7.75,Unknown,Queenstown
+262,Alive,Tercera,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,Unknown,Southampton
+263,Dead,Primera,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,Southampton
+264,Dead,Primera,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,B94,Southampton
+265,Dead,Tercera,"Henry, Miss. Delia",female,24.0,0,0,382649,7.75,Unknown,Queenstown
+266,Dead,Segunda,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,10.5,Unknown,Southampton
+267,Dead,Tercera,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,Unknown,Southampton
+268,Alive,Tercera,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,7.775,Unknown,Southampton
+269,Alive,Primera,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,Southampton
+270,Alive,Primera,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,Southampton
+271,Dead,Primera,"Cairns, Mr. Alexander",male,24.0,0,0,113798,31.0,Unknown,Southampton
+272,Alive,Tercera,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,Unknown,Southampton
+273,Alive,Segunda,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,Unknown,Southampton
+274,Dead,Primera,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,Cherburgo
+275,Alive,Tercera,"Healy, Miss. Hanora ""Nora""",female,24.0,0,0,370375,7.75,Unknown,Queenstown
+276,Alive,Primera,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,Southampton
+277,Dead,Tercera,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,Unknown,Southampton
+278,Dead,Segunda,"Parkes, Mr. Francis ""Frank""",male,24.0,0,0,239853,0.0,Unknown,Southampton
+279,Dead,Tercera,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,Unknown,Queenstown
+280,Alive,Tercera,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,Unknown,Southampton
+281,Dead,Tercera,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,Unknown,Queenstown
+282,Dead,Tercera,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,7.8542,Unknown,Southampton
+283,Dead,Tercera,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,Unknown,Southampton
+284,Alive,Tercera,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,Unknown,Southampton
+285,Dead,Primera,"Smith, Mr. Richard William",male,24.0,0,0,113056,26.0,A19,Southampton
+286,Dead,Tercera,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,Unknown,Cherburgo
+287,Alive,Tercera,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,Unknown,Southampton
+288,Dead,Tercera,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,Unknown,Southampton
+289,Alive,Segunda,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,Unknown,Southampton
+290,Alive,Tercera,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,Unknown,Queenstown
+291,Alive,Primera,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,Unknown,Southampton
+292,Alive,Primera,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,Cherburgo
+293,Dead,Segunda,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,Cherburgo
+294,Dead,Tercera,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,Unknown,Southampton
+295,Dead,Tercera,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,Unknown,Southampton
+296,Dead,Primera,"Lewy, Mr. Ervin G",male,24.0,0,0,PC 17612,27.7208,Unknown,Cherburgo
+297,Dead,Tercera,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,Unknown,Cherburgo
+298,Dead,Primera,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,Southampton
+299,Alive,Primera,"Saalfeld, Mr. Adolphe",male,24.0,0,0,19988,30.5,C106,Southampton
+300,Alive,Primera,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,Cherburgo
+301,Alive,Tercera,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,24.0,0,0,9234,7.75,Unknown,Queenstown
+302,Alive,Tercera,"McCoy, Mr. Bernard",male,24.0,2,0,367226,23.25,Unknown,Queenstown
+303,Dead,Tercera,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,Unknown,Southampton
+304,Alive,Segunda,"Keane, Miss. Nora A",female,24.0,0,0,226593,12.35,E101,Queenstown
+305,Dead,Tercera,"Williams, Mr. Howard Hugh ""Harry""",male,24.0,0,0,A/5 2466,8.05,Unknown,Southampton
+306,Alive,Primera,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,C22 C26,Southampton
+307,Alive,Primera,"Fleming, Miss. Margaret",female,24.0,0,0,17421,110.8833,Unknown,Cherburgo
+308,Alive,Primera,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,Cherburgo
+309,Dead,Segunda,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,Unknown,Cherburgo
+310,Alive,Primera,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,Cherburgo
+311,Alive,Primera,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,Cherburgo
+312,Alive,Primera,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherburgo
+313,Dead,Segunda,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,Unknown,Southampton
+314,Dead,Tercera,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,Unknown,Southampton
+315,Dead,Segunda,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,Unknown,Southampton
+316,Alive,Tercera,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,Unknown,Southampton
+317,Alive,Segunda,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,Unknown,Southampton
+318,Dead,Segunda,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,Unknown,Southampton
+319,Alive,Primera,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,Southampton
+320,Alive,Primera,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,Cherburgo
+321,Dead,Tercera,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,Unknown,Southampton
+322,Dead,Tercera,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,Unknown,Southampton
+323,Alive,Segunda,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,Unknown,Queenstown
+324,Alive,Segunda,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,Unknown,Southampton
+325,Dead,Tercera,"Sage, Mr. George John Jr",male,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+326,Alive,Primera,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,Cherburgo
+327,Dead,Tercera,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,Unknown,Southampton
+328,Alive,Segunda,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,D,Southampton
+329,Alive,Tercera,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,Unknown,Southampton
+330,Alive,Primera,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,Cherburgo
+331,Alive,Tercera,"McCoy, Miss. Agnes",female,24.0,2,0,367226,23.25,Unknown,Queenstown
+332,Dead,Primera,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,Southampton
+333,Dead,Primera,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,Southampton
+334,Dead,Tercera,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,Unknown,Southampton
+335,Alive,Primera,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,24.0,1,0,PC 17611,133.65,Unknown,Southampton
+336,Dead,Tercera,"Denkoff, Mr. Mitto",male,24.0,0,0,349225,7.8958,Unknown,Southampton
+337,Dead,Primera,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,Southampton
+338,Alive,Primera,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,Cherburgo
+339,Alive,Tercera,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,Unknown,Southampton
+340,Dead,Primera,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,T,Southampton
+341,Alive,Segunda,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,F2,Southampton
+342,Alive,Primera,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,Southampton
+343,Dead,Segunda,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,Unknown,Southampton
+344,Dead,Segunda,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,Unknown,Southampton
+345,Dead,Segunda,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,Unknown,Southampton
+346,Alive,Segunda,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,F33,Southampton
+347,Alive,Segunda,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,Unknown,Southampton
+348,Alive,Tercera,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,24.0,1,0,386525,16.1,Unknown,Southampton
+349,Alive,Tercera,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,Unknown,Southampton
+350,Dead,Tercera,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,Unknown,Southampton
+351,Dead,Tercera,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,Unknown,Southampton
+352,Dead,Primera,"Williams-Lambert, Mr. Fletcher Fellows",male,24.0,0,0,113510,35.0,C128,Southampton
+353,Dead,Tercera,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,Unknown,Cherburgo
+354,Dead,Tercera,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,Unknown,Southampton
+355,Dead,Tercera,"Yousif, Mr. Wazli",male,24.0,0,0,2647,7.225,Unknown,Cherburgo
+356,Dead,Tercera,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,9.5,Unknown,Southampton
+357,Alive,Primera,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,Southampton
+358,Dead,Segunda,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,13.0,Unknown,Southampton
+359,Alive,Tercera,"McGovern, Miss. Mary",female,24.0,0,0,330931,7.8792,Unknown,Queenstown
+360,Alive,Tercera,"Mockler, Miss. Helen Mary ""Ellie""",female,24.0,0,0,330980,7.8792,Unknown,Queenstown
+361,Dead,Tercera,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,Unknown,Southampton
+362,Dead,Segunda,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,Unknown,Cherburgo
+363,Dead,Tercera,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,Unknown,Cherburgo
+364,Dead,Tercera,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,Unknown,Southampton
+365,Dead,Tercera,"O'Brien, Mr. Thomas",male,24.0,1,0,370365,15.5,Unknown,Queenstown
+366,Dead,Tercera,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,7.25,Unknown,Southampton
+367,Alive,Primera,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,Cherburgo
+368,Alive,Tercera,"Moussa, Mrs. (Mantoura Boulos)",female,24.0,0,0,2626,7.2292,Unknown,Cherburgo
+369,Alive,Tercera,"Jermyn, Miss. Annie",female,24.0,0,0,14313,7.75,Unknown,Queenstown
+370,Alive,Primera,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,Cherburgo
+371,Alive,Primera,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,E50,Cherburgo
+372,Dead,Tercera,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,Unknown,Southampton
+373,Dead,Tercera,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,Unknown,Southampton
+374,Dead,Primera,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,135.6333,Unknown,Cherburgo
+375,Dead,Tercera,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,Unknown,Southampton
+376,Alive,Primera,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,24.0,1,0,PC 17604,82.1708,Unknown,Cherburgo
+377,Alive,Tercera,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,Unknown,Southampton
+378,Dead,Primera,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,Cherburgo
+379,Dead,Tercera,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,Unknown,Cherburgo
+380,Dead,Tercera,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,7.775,Unknown,Southampton
+381,Alive,Primera,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,Unknown,Cherburgo
+382,Alive,Tercera,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,Unknown,Cherburgo
+383,Dead,Tercera,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,Unknown,Southampton
+384,Alive,Primera,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,Unknown,Southampton
+385,Dead,Tercera,"Plotcharsky, Mr. Vasil",male,24.0,0,0,349227,7.8958,Unknown,Southampton
+386,Dead,Segunda,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,Unknown,Southampton
+387,Dead,Tercera,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,Unknown,Southampton
+388,Alive,Segunda,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,Unknown,Southampton
+389,Dead,Tercera,"Sadlier, Mr. Matthew",male,24.0,0,0,367655,7.7292,Unknown,Queenstown
+390,Alive,Segunda,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,Unknown,Cherburgo
+391,Alive,Primera,"Carter, Mr. William Ernest",male,36.0,1,2,113760,120.0,B96 B98,Southampton
+392,Alive,Tercera,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,7.7958,Unknown,Southampton
+393,Dead,Tercera,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,7.925,Unknown,Southampton
+394,Alive,Primera,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,Cherburgo
+395,Alive,Tercera,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,Southampton
+396,Dead,Tercera,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,Unknown,Southampton
+397,Dead,Tercera,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,Unknown,Southampton
+398,Dead,Segunda,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,Unknown,Southampton
+399,Dead,Segunda,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,Unknown,Southampton
+400,Alive,Segunda,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,Unknown,Southampton
+401,Alive,Tercera,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,7.925,Unknown,Southampton
+402,Dead,Tercera,"Adams, Mr. John",male,26.0,0,0,341826,8.05,Unknown,Southampton
+403,Dead,Tercera,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,9.825,Unknown,Southampton
+404,Dead,Tercera,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,Unknown,Southampton
+405,Dead,Tercera,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,8.6625,Unknown,Southampton
+406,Dead,Segunda,"Gale, Mr. Shadrach",male,34.0,1,0,28664,21.0,Unknown,Southampton
+407,Dead,Tercera,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,Unknown,Southampton
+408,Alive,Segunda,"Richards, Master. William Rowe",male,3.0,1,1,29106,18.75,Unknown,Southampton
+409,Dead,Tercera,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,Unknown,Southampton
+410,Dead,Tercera,"Lefebre, Miss. Ida",female,24.0,3,1,4133,25.4667,Unknown,Southampton
+411,Dead,Tercera,"Sdycoff, Mr. Todor",male,24.0,0,0,349222,7.8958,Unknown,Southampton
+412,Dead,Tercera,"Hart, Mr. Henry",male,24.0,0,0,394140,6.8583,Unknown,Queenstown
+413,Alive,Primera,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Queenstown
+414,Dead,Segunda,"Cunningham, Mr. Alfred Fleming",male,24.0,0,0,239853,0.0,Unknown,Southampton
+415,Alive,Tercera,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,Unknown,Southampton
+416,Dead,Tercera,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,24.0,0,0,343095,8.05,Unknown,Southampton
+417,Alive,Segunda,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,Unknown,Southampton
+418,Alive,Segunda,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,Unknown,Southampton
+419,Dead,Segunda,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,Unknown,Southampton
+420,Dead,Tercera,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,Unknown,Southampton
+421,Dead,Tercera,"Gheorgheff, Mr. Stanio",male,24.0,0,0,349254,7.8958,Unknown,Cherburgo
+422,Dead,Tercera,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,Unknown,Queenstown
+423,Dead,Tercera,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,Unknown,Southampton
+424,Dead,Tercera,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,14.4,Unknown,Southampton
+425,Dead,Tercera,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,Unknown,Southampton
+426,Dead,Tercera,"Wiseman, Mr. Phillippe",male,24.0,0,0,A/4. 34244,7.25,Unknown,Southampton
+427,Alive,Segunda,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,Unknown,Southampton
+428,Alive,Segunda,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,Unknown,Southampton
+429,Dead,Tercera,"Flynn, Mr. James",male,24.0,0,0,364851,7.75,Unknown,Queenstown
+430,Alive,Tercera,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton
+431,Alive,Primera,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,C52,Southampton
+432,Alive,Tercera,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,24.0,1,0,376564,16.1,Unknown,Southampton
+433,Alive,Segunda,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,Unknown,Southampton
+434,Dead,Tercera,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,Unknown,Southampton
+435,Dead,Primera,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,E44,Southampton
+436,Alive,Primera,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,Southampton
+437,Dead,Tercera,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,Unknown,Southampton
+438,Alive,Segunda,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,Unknown,Southampton
+439,Dead,Primera,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,Southampton
+440,Dead,Segunda,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,Unknown,Southampton
+441,Alive,Segunda,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,Unknown,Southampton
+442,Dead,Tercera,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,Unknown,Southampton
+443,Dead,Tercera,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,Unknown,Southampton
+444,Alive,Segunda,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,Unknown,Southampton
+445,Alive,Tercera,"Johannesen-Bratthammer, Mr. Bernt",male,24.0,0,0,65306,8.1125,Unknown,Southampton
+446,Alive,Primera,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,A34,Southampton
+447,Alive,Segunda,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,Unknown,Southampton
+448,Alive,Primera,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,Unknown,Southampton
+449,Alive,Tercera,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,Unknown,Cherburgo
+450,Alive,Primera,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,30.5,C104,Southampton
+451,Dead,Segunda,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+452,Dead,Tercera,"Hagland, Mr. Ingvald Olai Olsen",male,24.0,1,0,65303,19.9667,Unknown,Southampton
+453,Dead,Primera,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,Cherburgo
+454,Alive,Primera,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,Cherburgo
+455,Dead,Tercera,"Peduzzi, Mr. Joseph",male,24.0,0,0,A/5 2817,8.05,Unknown,Southampton
+456,Alive,Tercera,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,Unknown,Cherburgo
+457,Dead,Primera,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,Southampton
+458,Alive,Primera,"Kenyon, Mrs. Frederick R (Marion)",female,24.0,1,0,17464,51.8625,D21,Southampton
+459,Alive,Segunda,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,Unknown,Southampton
+460,Dead,Tercera,"O'Connor, Mr. Maurice",male,24.0,0,0,371060,7.75,Unknown,Queenstown
+461,Alive,Primera,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,E12,Southampton
+462,Dead,Tercera,"Morley, Mr. William",male,34.0,0,0,364506,8.05,Unknown,Southampton
+463,Dead,Primera,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,E63,Southampton
+464,Dead,Segunda,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,Unknown,Southampton
+465,Dead,Tercera,"Maisner, Mr. Simon",male,24.0,0,0,A/S 2816,8.05,Unknown,Southampton
+466,Dead,Tercera,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,Unknown,Southampton
+467,Dead,Segunda,"Campbell, Mr. William",male,24.0,0,0,239853,0.0,Unknown,Southampton
+468,Dead,Primera,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,Unknown,Southampton
+469,Dead,Tercera,"Scanlan, Mr. James",male,24.0,0,0,36209,7.725,Unknown,Queenstown
+470,Alive,Tercera,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,Unknown,Cherburgo
+471,Dead,Tercera,"Keefe, Mr. Arthur",male,24.0,0,0,323592,7.25,Unknown,Southampton
+472,Dead,Tercera,"Cacic, Mr. Luka",male,38.0,0,0,315089,8.6625,Unknown,Southampton
+473,Alive,Segunda,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,Unknown,Southampton
+474,Alive,Segunda,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,Cherburgo
+475,Dead,Tercera,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,9.8375,Unknown,Southampton
+476,Dead,Primera,"Clifford, Mr. George Quincy",male,24.0,0,0,110465,52.0,A14,Southampton
+477,Dead,Segunda,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,Unknown,Southampton
+478,Dead,Tercera,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,Unknown,Southampton
+479,Dead,Tercera,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,Unknown,Southampton
+480,Alive,Tercera,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,Unknown,Southampton
+481,Dead,Tercera,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,Unknown,Southampton
+482,Dead,Segunda,"Frost, Mr. Anthony Wood ""Archie""",male,24.0,0,0,239854,0.0,Unknown,Southampton
+483,Dead,Tercera,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,Unknown,Southampton
+484,Alive,Tercera,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,Unknown,Southampton
+485,Alive,Primera,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,Cherburgo
+486,Dead,Tercera,"Lefebre, Miss. Jeannie",female,24.0,3,1,4133,25.4667,Unknown,Southampton
+487,Alive,Primera,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,Southampton
+488,Dead,Primera,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,Cherburgo
+489,Dead,Tercera,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,Unknown,Southampton
+490,Alive,Tercera,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,Unknown,Southampton
+491,Dead,Tercera,"Hagland, Mr. Konrad Mathias Reiersen",male,24.0,1,0,65304,19.9667,Unknown,Southampton
+492,Dead,Tercera,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,Unknown,Southampton
+493,Dead,Primera,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,C30,Southampton
+494,Dead,Primera,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,Unknown,Cherburgo
+495,Dead,Tercera,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,Unknown,Southampton
+496,Dead,Tercera,"Yousseff, Mr. Gerious",male,24.0,0,0,2627,14.4583,Unknown,Cherburgo
+497,Alive,Primera,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,Cherburgo
+498,Dead,Tercera,"Shellard, Mr. Frederick William",male,24.0,0,0,C.A. 6212,15.1,Unknown,Southampton
+499,Dead,Primera,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,151.55,C22 C26,Southampton
+500,Dead,Tercera,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,Unknown,Southampton
+501,Dead,Tercera,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,Unknown,Southampton
+502,Dead,Tercera,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,Unknown,Queenstown
+503,Dead,Tercera,"O'Sullivan, Miss. Bridget Mary",female,24.0,0,0,330909,7.6292,Unknown,Queenstown
+504,Dead,Tercera,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,Unknown,Southampton
+505,Alive,Primera,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,Southampton
+506,Dead,Primera,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,C65,Cherburgo
+507,Alive,Segunda,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,Unknown,Southampton
+508,Alive,Primera,"Bradley, Mr. George (""George Arthur Brayton"")",male,24.0,0,0,111427,26.55,Unknown,Southampton
+509,Dead,Tercera,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,Unknown,Southampton
+510,Alive,Tercera,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,Unknown,Southampton
+511,Alive,Tercera,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,Unknown,Queenstown
+512,Dead,Tercera,"Webber, Mr. James",male,24.0,0,0,SOTON/OQ 3101316,8.05,Unknown,Southampton
+513,Alive,Primera,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,E25,Southampton
+514,Alive,Primera,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,Unknown,Cherburgo
+515,Dead,Tercera,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,Unknown,Southampton
+516,Dead,Primera,"Walker, Mr. William Anderson",male,47.0,0,0,36967,34.0208,D46,Southampton
+517,Alive,Segunda,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,F33,Southampton
+518,Dead,Tercera,"Ryan, Mr. Patrick",male,24.0,0,0,371110,24.15,Unknown,Queenstown
+519,Alive,Segunda,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,Unknown,Southampton
+520,Dead,Tercera,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,7.8958,Unknown,Southampton
+521,Alive,Primera,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,Southampton
+522,Dead,Tercera,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,Unknown,Southampton
+523,Dead,Tercera,"Lahoud, Mr. Sarkis",male,24.0,0,0,2624,7.225,Unknown,Cherburgo
+524,Alive,Primera,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,Cherburgo
+525,Dead,Tercera,"Kassem, Mr. Fared",male,24.0,0,0,2700,7.2292,Unknown,Cherburgo
+526,Dead,Tercera,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,Unknown,Queenstown
+527,Alive,Segunda,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,Unknown,Southampton
+528,Dead,Primera,"Farthing, Mr. John",male,24.0,0,0,PC 17483,221.7792,C95,Southampton
+529,Dead,Tercera,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,Unknown,Southampton
+530,Dead,Segunda,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,Unknown,Southampton
+531,Alive,Segunda,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,Unknown,Southampton
+532,Dead,Tercera,"Toufik, Mr. Nakli",male,24.0,0,0,2641,7.2292,Unknown,Cherburgo
+533,Dead,Tercera,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,Unknown,Cherburgo
+534,Alive,Tercera,"Peter, Mrs. Catherine (Catherine Rizk)",female,24.0,0,2,2668,22.3583,Unknown,Cherburgo
+535,Dead,Tercera,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,Unknown,Southampton
+536,Alive,Segunda,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,Unknown,Southampton
+537,Dead,Primera,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,Southampton
+538,Alive,Primera,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,Unknown,Cherburgo
+539,Dead,Tercera,"Risien, Mr. Samuel Beard",male,24.0,0,0,364498,14.5,Unknown,Southampton
+540,Alive,Primera,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,Cherburgo
+541,Alive,Primera,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,Southampton
+542,Dead,Tercera,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,Unknown,Southampton
+543,Dead,Tercera,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,Unknown,Southampton
+544,Alive,Segunda,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,Unknown,Southampton
+545,Dead,Primera,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,106.425,C86,Cherburgo
+546,Dead,Primera,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,Unknown,Southampton
+547,Alive,Segunda,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,Unknown,Southampton
+548,Alive,Segunda,"Padro y Manent, Mr. Julian",male,24.0,0,0,SC/PARIS 2146,13.8625,Unknown,Cherburgo
+549,Dead,Tercera,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,Unknown,Southampton
+550,Alive,Segunda,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,Unknown,Southampton
+551,Alive,Primera,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,C70,Cherburgo
+552,Dead,Segunda,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,26.0,Unknown,Southampton
+553,Dead,Tercera,"O'Brien, Mr. Timothy",male,24.0,0,0,330979,7.8292,Unknown,Queenstown
+554,Alive,Tercera,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,Unknown,Cherburgo
+555,Alive,Tercera,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,Unknown,Southampton
+556,Dead,Primera,"Wright, Mr. George",male,62.0,0,0,113807,26.55,Unknown,Southampton
+557,Alive,Primera,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,Cherburgo
+558,Dead,Primera,"Robbins, Mr. Victor",male,24.0,0,0,PC 17757,227.525,Unknown,Cherburgo
+559,Alive,Primera,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,Southampton
+560,Alive,Tercera,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,Unknown,Southampton
+561,Dead,Tercera,"Morrow, Mr. Thomas Rowan",male,24.0,0,0,372622,7.75,Unknown,Queenstown
+562,Dead,Tercera,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,Unknown,Southampton
+563,Dead,Segunda,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,13.5,Unknown,Southampton
+564,Dead,Tercera,"Simmons, Mr. John",male,24.0,0,0,SOTON/OQ 392082,8.05,Unknown,Southampton
+565,Dead,Tercera,"Meanwell, Miss. (Marion Ogden)",female,24.0,0,0,SOTON/O.Q. 392087,8.05,Unknown,Southampton
+566,Dead,Tercera,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,Unknown,Southampton
+567,Dead,Tercera,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,Unknown,Southampton
+568,Dead,Tercera,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,21.075,Unknown,Southampton
+569,Dead,Tercera,"Doharr, Mr. Tannous",male,24.0,0,0,2686,7.2292,Unknown,Cherburgo
+570,Alive,Tercera,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,Unknown,Southampton
+571,Alive,Segunda,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,Unknown,Southampton
+572,Alive,Primera,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,Southampton
+573,Alive,Primera,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,E25,Southampton
+574,Alive,Tercera,"Kelly, Miss. Mary",female,24.0,0,0,14312,7.75,Unknown,Queenstown
+575,Dead,Tercera,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,Unknown,Southampton
+576,Dead,Tercera,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,Unknown,Southampton
+577,Alive,Segunda,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,Unknown,Southampton
+578,Alive,Primera,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,Southampton
+579,Dead,Tercera,"Caram, Mrs. Joseph (Maria Elias)",female,24.0,1,0,2689,14.4583,Unknown,Cherburgo
+580,Alive,Tercera,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,7.925,Unknown,Southampton
+581,Alive,Segunda,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,Unknown,Southampton
+582,Alive,Primera,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,Cherburgo
+583,Dead,Segunda,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,Unknown,Southampton
+584,Dead,Primera,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,A10,Cherburgo
+585,Dead,Tercera,"Paulner, Mr. Uscher",male,24.0,0,0,3411,8.7125,Unknown,Cherburgo
+586,Alive,Primera,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,Southampton
+587,Dead,Segunda,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,15.0,Unknown,Southampton
+588,Alive,Primera,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,Cherburgo
+589,Dead,Tercera,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,Unknown,Southampton
+590,Dead,Tercera,"Murdlin, Mr. Joseph",male,24.0,0,0,A./5. 3235,8.05,Unknown,Southampton
+591,Dead,Tercera,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,Unknown,Southampton
+592,Alive,Primera,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,D20,Cherburgo
+593,Dead,Tercera,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,7.25,Unknown,Southampton
+594,Dead,Tercera,"Bourke, Miss. Mary",female,24.0,0,2,364848,7.75,Unknown,Queenstown
+595,Dead,Segunda,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,Unknown,Southampton
+596,Dead,Tercera,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,Unknown,Southampton
+597,Alive,Segunda,"Leitch, Miss. Jessie Wills",female,24.0,0,0,248727,33.0,Unknown,Southampton
+598,Dead,Tercera,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,Unknown,Southampton
+599,Dead,Tercera,"Boulos, Mr. Hanna",male,24.0,0,0,2664,7.225,Unknown,Cherburgo
+600,Alive,Primera,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,Cherburgo
+601,Alive,Segunda,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,Unknown,Southampton
+602,Dead,Tercera,"Slabenoff, Mr. Petco",male,24.0,0,0,349214,7.8958,Unknown,Southampton
+603,Dead,Primera,"Harrington, Mr. Charles H",male,24.0,0,0,113796,42.4,Unknown,Southampton
+604,Dead,Tercera,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,Unknown,Southampton
+605,Alive,Primera,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,Unknown,Cherburgo
+606,Dead,Tercera,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,15.55,Unknown,Southampton
+607,Dead,Tercera,"Karaic, Mr. Milan",male,30.0,0,0,349246,7.8958,Unknown,Southampton
+608,Alive,Primera,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,30.5,Unknown,Southampton
+609,Alive,Segunda,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,Unknown,Cherburgo
+610,Alive,Primera,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,Southampton
+611,Dead,Tercera,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,31.275,Unknown,Southampton
+612,Dead,Tercera,"Jardin, Mr. Jose Neto",male,24.0,0,0,SOTON/O.Q. 3101305,7.05,Unknown,Southampton
+613,Alive,Tercera,"Murphy, Miss. Margaret Jane",female,24.0,1,0,367230,15.5,Unknown,Queenstown
+614,Dead,Tercera,"Horgan, Mr. John",male,24.0,0,0,370377,7.75,Unknown,Queenstown
+615,Dead,Tercera,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,Unknown,Southampton
+616,Alive,Segunda,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,Unknown,Southampton
+617,Dead,Tercera,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,14.4,Unknown,Southampton
+618,Dead,Tercera,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,Unknown,Southampton
+619,Alive,Segunda,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,F4,Southampton
+620,Dead,Segunda,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,10.5,Unknown,Southampton
+621,Dead,Tercera,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,Unknown,Cherburgo
+622,Alive,Primera,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,D19,Southampton
+623,Alive,Tercera,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,Unknown,Cherburgo
+624,Dead,Tercera,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,Unknown,Southampton
+625,Dead,Tercera,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,Unknown,Southampton
+626,Dead,Primera,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,Southampton
+627,Dead,Segunda,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,Unknown,Queenstown
+628,Alive,Primera,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,Southampton
+629,Dead,Tercera,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,Unknown,Southampton
+630,Dead,Tercera,"O'Connell, Mr. Patrick D",male,24.0,0,0,334912,7.7333,Unknown,Queenstown
+631,Alive,Primera,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,A23,Southampton
+632,Dead,Tercera,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,7.0542,Unknown,Southampton
+633,Alive,Primera,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,Cherburgo
+634,Dead,Primera,"Parr, Mr. William Henry Marsh",male,24.0,0,0,112052,0.0,Unknown,Southampton
+635,Dead,Tercera,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,Unknown,Southampton
+636,Alive,Segunda,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,Unknown,Southampton
+637,Dead,Tercera,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,7.925,Unknown,Southampton
+638,Dead,Segunda,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,26.25,Unknown,Southampton
+639,Dead,Tercera,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,39.6875,Unknown,Southampton
+640,Dead,Tercera,"Thorneycroft, Mr. Percival",male,24.0,1,0,376564,16.1,Unknown,Southampton
+641,Dead,Tercera,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,Unknown,Southampton
+642,Alive,Primera,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,Cherburgo
+643,Dead,Tercera,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,Unknown,Southampton
+644,Alive,Tercera,"Foo, Mr. Choong",male,24.0,0,0,1601,56.4958,Unknown,Southampton
+645,Alive,Tercera,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,Unknown,Cherburgo
+646,Alive,Primera,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,D33,Cherburgo
+647,Dead,Tercera,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,Unknown,Southampton
+648,Alive,Primera,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,35.5,A26,Cherburgo
+649,Dead,Tercera,"Willey, Mr. Edward",male,24.0,0,0,S.O./P.P. 751,7.55,Unknown,Southampton
+650,Alive,Tercera,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,Unknown,Southampton
+651,Dead,Tercera,"Mitkoff, Mr. Mito",male,24.0,0,0,349221,7.8958,Unknown,Southampton
+652,Alive,Segunda,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,Unknown,Southampton
+653,Dead,Tercera,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,Unknown,Southampton
+654,Alive,Tercera,"O'Leary, Miss. Hanora ""Norah""",female,24.0,0,0,330919,7.8292,Unknown,Queenstown
+655,Dead,Tercera,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,Unknown,Queenstown
+656,Dead,Segunda,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+657,Dead,Tercera,"Radeff, Mr. Alexander",male,24.0,0,0,349223,7.8958,Unknown,Southampton
+658,Dead,Tercera,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,Unknown,Queenstown
+659,Dead,Segunda,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,13.0,Unknown,Southampton
+660,Dead,Primera,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,Cherburgo
+661,Alive,Primera,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,Unknown,Southampton
+662,Dead,Tercera,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,Unknown,Cherburgo
+663,Dead,Primera,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,E58,Southampton
+664,Dead,Tercera,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,Unknown,Southampton
+665,Alive,Tercera,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,7.925,Unknown,Southampton
+666,Dead,Segunda,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,Unknown,Southampton
+667,Dead,Segunda,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,Unknown,Southampton
+668,Dead,Tercera,"Rommetvedt, Mr. Knud Paust",male,24.0,0,0,312993,7.775,Unknown,Southampton
+669,Dead,Tercera,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,Unknown,Southampton
+670,Alive,Primera,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,24.0,1,0,19996,52.0,C126,Southampton
+671,Alive,Segunda,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,Unknown,Southampton
+672,Dead,Primera,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,Southampton
+673,Dead,Segunda,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,Unknown,Southampton
+674,Alive,Segunda,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,Unknown,Southampton
+675,Dead,Segunda,"Watson, Mr. Ennis Hastings",male,24.0,0,0,239856,0.0,Unknown,Southampton
+676,Dead,Tercera,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,7.775,Unknown,Southampton
+677,Dead,Tercera,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,Unknown,Southampton
+678,Alive,Tercera,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,Unknown,Southampton
+679,Dead,Tercera,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,Unknown,Southampton
+680,Alive,Primera,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,Cherburgo
+681,Dead,Tercera,"Peters, Miss. Katie",female,24.0,0,0,330935,8.1375,Unknown,Queenstown
+682,Alive,Primera,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,D49,Cherburgo
+683,Dead,Tercera,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,Unknown,Southampton
+684,Dead,Tercera,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,Unknown,Southampton
+685,Dead,Segunda,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,39.0,Unknown,Southampton
+686,Dead,Segunda,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,Unknown,Cherburgo
+687,Dead,Tercera,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,Unknown,Southampton
+688,Dead,Tercera,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,Unknown,Southampton
+689,Dead,Tercera,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,7.7958,Unknown,Southampton
+690,Alive,Primera,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,Southampton
+691,Alive,Primera,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,Southampton
+692,Alive,Tercera,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,Unknown,Cherburgo
+693,Alive,Tercera,"Lam, Mr. Ali",male,24.0,0,0,1601,56.4958,Unknown,Southampton
+694,Dead,Tercera,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,Unknown,Cherburgo
+695,Dead,Primera,"Weir, Col. John",male,60.0,0,0,113800,26.55,Unknown,Southampton
+696,Dead,Segunda,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,Unknown,Southampton
+697,Dead,Tercera,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,Unknown,Southampton
+698,Alive,Tercera,"Mullens, Miss. Katherine ""Katie""",female,24.0,0,0,35852,7.7333,Unknown,Queenstown
+699,Dead,Primera,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,Cherburgo
+700,Dead,Tercera,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,F G63,Southampton
+701,Alive,Primera,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,Cherburgo
+702,Alive,Primera,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,Southampton
+703,Dead,Tercera,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,Unknown,Cherburgo
+704,Dead,Tercera,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,Unknown,Queenstown
+705,Dead,Tercera,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,7.8542,Unknown,Southampton
+706,Dead,Segunda,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,Unknown,Southampton
+707,Alive,Segunda,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,Unknown,Southampton
+708,Alive,Primera,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,E24,Southampton
+709,Alive,Primera,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,Unknown,Southampton
+710,Alive,Tercera,"Moubarek, Master. Halim Gonios (""William George"")",male,24.0,1,1,2661,15.2458,Unknown,Cherburgo
+711,Alive,Primera,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,Cherburgo
+712,Dead,Primera,"Klaber, Mr. Herman",male,24.0,0,0,113028,26.55,C124,Southampton
+713,Alive,Primera,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,Southampton
+714,Dead,Tercera,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,Unknown,Southampton
+715,Dead,Segunda,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,Unknown,Southampton
+716,Dead,Tercera,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,Southampton
+717,Alive,Primera,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,Cherburgo
+718,Alive,Segunda,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,E101,Southampton
+719,Dead,Tercera,"McEvoy, Mr. Michael",male,24.0,0,0,36568,15.5,Unknown,Queenstown
+720,Dead,Tercera,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,Unknown,Southampton
+721,Alive,Segunda,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,Unknown,Southampton
+722,Dead,Tercera,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,7.0542,Unknown,Southampton
+723,Dead,Segunda,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,Unknown,Southampton
+724,Dead,Segunda,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,13.0,Unknown,Southampton
+725,Alive,Primera,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,53.1,E8,Southampton
+726,Dead,Tercera,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,8.6625,Unknown,Southampton
+727,Alive,Segunda,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,Unknown,Southampton
+728,Alive,Tercera,"Mannion, Miss. Margareth",female,24.0,0,0,36866,7.7375,Unknown,Queenstown
+729,Dead,Segunda,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,26.0,Unknown,Southampton
+730,Dead,Tercera,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,7.925,Unknown,Southampton
+731,Alive,Primera,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,Southampton
+732,Dead,Tercera,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,Unknown,Cherburgo
+733,Dead,Segunda,"Knight, Mr. Robert J",male,24.0,0,0,239855,0.0,Unknown,Southampton
+734,Dead,Segunda,"Berriman, Mr. William John",male,23.0,0,0,28425,13.0,Unknown,Southampton
+735,Dead,Segunda,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,Unknown,Southampton
+736,Dead,Tercera,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,Unknown,Southampton
+737,Dead,Tercera,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,Unknown,Southampton
+738,Alive,Primera,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,B101,Cherburgo
+739,Dead,Tercera,"Ivanoff, Mr. Kanio",male,24.0,0,0,349201,7.8958,Unknown,Southampton
+740,Dead,Tercera,"Nankoff, Mr. Minko",male,24.0,0,0,349218,7.8958,Unknown,Southampton
+741,Alive,Primera,"Hawksford, Mr. Walter James",male,24.0,0,0,16988,30.0,D45,Southampton
+742,Dead,Primera,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,C46,Southampton
+743,Alive,Primera,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherburgo
+744,Dead,Tercera,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,Unknown,Southampton
+745,Alive,Tercera,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,Unknown,Southampton
+746,Dead,Primera,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,Southampton
+747,Dead,Tercera,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,20.25,Unknown,Southampton
+748,Alive,Segunda,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,Unknown,Southampton
+749,Dead,Primera,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,Southampton
+750,Dead,Tercera,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,Unknown,Queenstown
+751,Alive,Segunda,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,Unknown,Southampton
+752,Alive,Tercera,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,Southampton
+753,Dead,Tercera,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,Unknown,Southampton
+754,Dead,Tercera,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,Unknown,Southampton
+755,Alive,Segunda,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,Unknown,Southampton
+756,Alive,Segunda,"Hamalainen, Master. Viljo",male,0.67,1,1,250649,14.5,Unknown,Southampton
+757,Dead,Tercera,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,Unknown,Southampton
+758,Dead,Segunda,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,11.5,Unknown,Southampton
+759,Dead,Tercera,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,Unknown,Southampton
+760,Alive,Primera,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,Southampton
+761,Dead,Tercera,"Garfirth, Mr. John",male,24.0,0,0,358585,14.5,Unknown,Southampton
+762,Dead,Tercera,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,Unknown,Southampton
+763,Alive,Tercera,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,Unknown,Cherburgo
+764,Alive,Primera,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,Southampton
+765,Dead,Tercera,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,7.775,Unknown,Southampton
+766,Alive,Primera,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,Southampton
+767,Dead,Primera,"Brewe, Dr. Arthur Jackson",male,24.0,0,0,112379,39.6,Unknown,Cherburgo
+768,Dead,Tercera,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,Unknown,Queenstown
+769,Dead,Tercera,"Moran, Mr. Daniel J",male,24.0,1,0,371110,24.15,Unknown,Queenstown
+770,Dead,Tercera,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,Unknown,Southampton
+771,Dead,Tercera,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,9.5,Unknown,Southampton
+772,Dead,Tercera,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,Unknown,Southampton
+773,Dead,Segunda,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,Southampton
+774,Dead,Tercera,"Elias, Mr. Dibo",male,24.0,0,0,2674,7.225,Unknown,Cherburgo
+775,Alive,Segunda,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,Unknown,Southampton
+776,Dead,Tercera,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,Unknown,Southampton
+777,Dead,Tercera,"Tobin, Mr. Roger",male,24.0,0,0,383121,7.75,F38,Queenstown
+778,Alive,Tercera,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,Unknown,Southampton
+779,Dead,Tercera,"Kilgannon, Mr. Thomas J",male,24.0,0,0,36865,7.7375,Unknown,Queenstown
+780,Alive,Primera,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,B3,Southampton
+781,Alive,Tercera,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,Unknown,Cherburgo
+782,Alive,Primera,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,B20,Southampton
+783,Dead,Primera,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,Southampton
+784,Dead,Tercera,"Johnston, Mr. Andrew G",male,24.0,1,2,W./C. 6607,23.45,Unknown,Southampton
+785,Dead,Tercera,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,Unknown,Southampton
+786,Dead,Tercera,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,Unknown,Southampton
+787,Alive,Tercera,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,Unknown,Southampton
+788,Dead,Tercera,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,Unknown,Queenstown
+789,Alive,Tercera,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,20.575,Unknown,Southampton
+790,Dead,Primera,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,79.2,B82 B84,Cherburgo
+791,Dead,Tercera,"Keane, Mr. Andrew ""Andy""",male,24.0,0,0,12460,7.75,Unknown,Queenstown
+792,Dead,Segunda,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,Unknown,Southampton
+793,Dead,Tercera,"Sage, Miss. Stella Anna",female,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+794,Dead,Primera,"Hoyt, Mr. William Fisher",male,24.0,0,0,PC 17600,30.6958,Unknown,Cherburgo
+795,Dead,Tercera,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,Unknown,Southampton
+796,Dead,Segunda,"Otter, Mr. Richard",male,39.0,0,0,28213,13.0,Unknown,Southampton
+797,Alive,Primera,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,Southampton
+798,Alive,Tercera,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,Unknown,Southampton
+799,Dead,Tercera,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,Unknown,Cherburgo
+800,Dead,Tercera,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,Unknown,Southampton
+801,Dead,Segunda,"Ponesell, Mr. Martin",male,34.0,0,0,250647,13.0,Unknown,Southampton
+802,Alive,Segunda,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,Unknown,Southampton
+803,Alive,Primera,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,Southampton
+804,Alive,Tercera,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,Unknown,Cherburgo
+805,Alive,Tercera,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6.975,Unknown,Southampton
+806,Dead,Tercera,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,7.775,Unknown,Southampton
+807,Dead,Primera,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,Southampton
+808,Dead,Tercera,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,Unknown,Southampton
+809,Dead,Segunda,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,Unknown,Southampton
+810,Alive,Primera,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,E8,Southampton
+811,Dead,Tercera,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,Unknown,Southampton
+812,Dead,Tercera,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,Unknown,Southampton
+813,Dead,Segunda,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,Unknown,Southampton
+814,Dead,Tercera,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,Unknown,Southampton
+815,Dead,Tercera,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,Unknown,Southampton
+816,Dead,Primera,"Fry, Mr. Richard",male,24.0,0,0,112058,0.0,B102,Southampton
+817,Dead,Tercera,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,Unknown,Southampton
+818,Dead,Segunda,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,Unknown,Cherburgo
+819,Dead,Tercera,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,Unknown,Southampton
+820,Dead,Tercera,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,Unknown,Southampton
+821,Alive,Primera,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,Southampton
+822,Alive,Tercera,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,Unknown,Southampton
+823,Dead,Primera,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,Unknown,Southampton
+824,Alive,Tercera,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,Southampton
+825,Dead,Tercera,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,Unknown,Southampton
+826,Dead,Tercera,"Flynn, Mr. John",male,24.0,0,0,368323,6.95,Unknown,Queenstown
+827,Dead,Tercera,"Lam, Mr. Len",male,24.0,0,0,1601,56.4958,Unknown,Southampton
+828,Alive,Segunda,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,Unknown,Cherburgo
+829,Alive,Tercera,"McCormack, Mr. Thomas Joseph",male,24.0,0,0,367228,7.75,Unknown,Queenstown
+830,Alive,Primera,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,Southampton
+831,Alive,Tercera,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,Unknown,Cherburgo
+832,Alive,Segunda,"Richards, Master. George Sibley",male,0.83,1,1,29106,18.75,Unknown,Southampton
+833,Dead,Tercera,"Saad, Mr. Amin",male,24.0,0,0,2671,7.2292,Unknown,Cherburgo
+834,Dead,Tercera,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,Unknown,Southampton
+835,Dead,Tercera,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,Unknown,Southampton
+836,Alive,Primera,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,Cherburgo
+837,Dead,Tercera,"Pasic, Mr. Jakob",male,21.0,0,0,315097,8.6625,Unknown,Southampton
+838,Dead,Tercera,"Sirota, Mr. Maurice",male,24.0,0,0,392092,8.05,Unknown,Southampton
+839,Alive,Tercera,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,Unknown,Southampton
+840,Alive,Primera,"Marechal, Mr. Pierre",male,24.0,0,0,11774,29.7,C47,Cherburgo
+841,Dead,Tercera,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,Unknown,Southampton
+842,Dead,Segunda,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,Unknown,Southampton
+843,Alive,Primera,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,Unknown,Cherburgo
+844,Dead,Tercera,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,Unknown,Cherburgo
+845,Dead,Tercera,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,Unknown,Southampton
+846,Dead,Tercera,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,Unknown,Southampton
+847,Dead,Tercera,"Sage, Mr. Douglas Bullen",male,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+848,Dead,Tercera,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,Unknown,Cherburgo
+849,Dead,Segunda,"Harper, Rev. John",male,28.0,0,1,248727,33.0,Unknown,Southampton
+850,Alive,Primera,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,24.0,1,0,17453,89.1042,C92,Cherburgo
+851,Dead,Tercera,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,31.275,Unknown,Southampton
+852,Dead,Tercera,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,Unknown,Southampton
+853,Dead,Tercera,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,Unknown,Cherburgo
+854,Alive,Primera,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,Southampton
+855,Dead,Segunda,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,26.0,Unknown,Southampton
+856,Alive,Tercera,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,Unknown,Southampton
+857,Alive,Primera,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,Unknown,Southampton
+858,Alive,Primera,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,E17,Southampton
+859,Alive,Tercera,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,Unknown,Cherburgo
+860,Dead,Tercera,"Razi, Mr. Raihed",male,24.0,0,0,2629,7.2292,Unknown,Cherburgo
+861,Dead,Tercera,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,Unknown,Southampton
+862,Dead,Segunda,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,11.5,Unknown,Southampton
+863,Alive,Primera,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,Southampton
+864,Dead,Tercera,"Sage, Miss. Dorothy Edith ""Dolly""",female,24.0,8,2,CA. 2343,69.55,Unknown,Southampton
+865,Dead,Segunda,"Gill, Mr. John William",male,24.0,0,0,233866,13.0,Unknown,Southampton
+866,Alive,Segunda,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,Unknown,Southampton
+867,Alive,Segunda,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,Unknown,Cherburgo
+868,Dead,Primera,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,Southampton
+869,Dead,Tercera,"van Melkebeke, Mr. Philemon",male,24.0,0,0,345777,9.5,Unknown,Southampton
+870,Alive,Tercera,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,Unknown,Southampton
+871,Dead,Tercera,"Balkic, Mr. Cerin",male,26.0,0,0,349248,7.8958,Unknown,Southampton
+872,Alive,Primera,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,Southampton
+873,Dead,Primera,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,B51 B53 B55,Southampton
+874,Dead,Tercera,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,Unknown,Southampton
+875,Alive,Segunda,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,Unknown,Cherburgo
+876,Alive,Tercera,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,Unknown,Cherburgo
+877,Dead,Tercera,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,9.8458,Unknown,Southampton
+878,Dead,Tercera,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,Unknown,Southampton
+879,Dead,Tercera,"Laleff, Mr. Kristo",male,24.0,0,0,349217,7.8958,Unknown,Southampton
+880,Alive,Primera,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,Cherburgo
+881,Alive,Segunda,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,Unknown,Southampton
+882,Dead,Tercera,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,Unknown,Southampton
+883,Dead,Tercera,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,Unknown,Southampton
+884,Dead,Segunda,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,Unknown,Southampton
+885,Dead,Tercera,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,Unknown,Southampton
+886,Dead,Tercera,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,Unknown,Queenstown
+887,Dead,Segunda,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,Unknown,Southampton
+888,Alive,Primera,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,Southampton
+889,Dead,Tercera,"Johnston, Miss. Catherine Helen ""Carrie""",female,24.0,1,2,W./C. 6607,23.45,Unknown,Southampton
+890,Alive,Primera,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,Cherburgo
+891,Dead,Tercera,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,Unknown,Queenstown

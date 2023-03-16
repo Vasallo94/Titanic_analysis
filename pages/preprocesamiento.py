@@ -61,7 +61,7 @@ st.pyplot(no_nulos.get_figure())
 
 
 titanic.to_csv(
-    'Titanic_analysis/data/titanic_proces.csv', index=False)
+    './data/titanic_proces.csv', index=False)
 
 csv = titanic.to_csv(index=False)
 b64 = base64.b64encode(csv.encode()).decode()

@@ -31,7 +31,7 @@ def main():
 
     # ----------------------LECTURA DE DATOS Y PREPROCESAMIENTO------------------#
     # Leemos el csv con los datos del Titanic y creamos el dataframe
-    data = pd.read_csv('data/titanic_proces.csv')
+    data = pd.read_csv('data\titanic_proces.csv')
     titan = pd.DataFrame(data=data)
 
     # --------------------TITLE----------------------------#

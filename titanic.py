@@ -333,7 +333,7 @@ def main():
         # st.write(
         #     "Aquí se puede agregar el contenido de la Sobre el precio de los pasajes a los pasajeros.")
         # Títulos y nubes de palabras
-        st.image('/Users/enriquebook/programas_python/Data_Analysis/13-Proyecto-Módulo-1/Titanic/img/wordcloud.png', use_column_width=True)
+        st.image('img\wordcloud.png', use_column_width=True)
 
 
 if __name__ == '__main__':

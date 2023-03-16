@@ -33,7 +33,7 @@ def main():
     data = pd.read_csv('data/titanic_proces.csv')
     titan = pd.DataFrame(data=data)
     
-    st.image('img/00-Profile_H2.webp',use_container_width=True)
+    st.image('img/00-Profile_H2.webp',use_column_width=True)
 
     # --------------------TITLE----------------------------#
     st.title("Titanic: my first data analysis")

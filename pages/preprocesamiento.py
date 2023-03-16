@@ -17,7 +17,7 @@ st.title('Preprocesamiento de los datos')
 # ----------------------LECTURA DE DATOS Y PREPROCESAMIENTO------------------#
 # Leemos el csv con los datos del Titanic y creamos el dataframe
 data = pd.read_csv(
-    'data\titanic.csv')
+    'data/titanic.csv')
 titanic = pd.DataFrame(data=data)
 
 st.dataframe(titanic)
@@ -61,7 +61,7 @@ st.pyplot(no_nulos.get_figure())
 
 
 titanic.to_csv(
-    '\data\titanic_proces.csv', index=False)
+    '/data/titanic_proces.csv', index=False)
 
 csv = titanic.to_csv(index=False)
 b64 = base64.b64encode(csv.encode()).decode()

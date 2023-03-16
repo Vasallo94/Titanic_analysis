@@ -17,7 +17,7 @@ st.title('Preprocesamiento de los datos')
 # ----------------------LECTURA DE DATOS Y PREPROCESAMIENTO------------------#
 # Leemos el csv con los datos del Titanic y creamos el dataframe
 data = pd.read_csv(
-    '/Users/enriquebook/programas_python/Data_Analysis/13-Proyecto-Módulo-1/Titanic/data/titanic.csv')
+    'data\titanic.csv')
 titanic = pd.DataFrame(data=data)
 
 st.dataframe(titanic)

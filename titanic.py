@@ -8,7 +8,6 @@ import plotly_express as px
 import plotly.graph_objects as go
 from wordcloud import WordCloud, STOPWORDS
 import re
-from PIL import Image
 from plotly.subplots import make_subplots
 
 
@@ -31,7 +30,7 @@ def main():
 
     # ----------------------LECTURA DE DATOS Y PREPROCESAMIENTO------------------#
     # Leemos el csv con los datos del Titanic y creamos el dataframe
-    data = pd.read_csv('data\titanic_proces.csv')
+    data = pd.read_csv('data/titanic_proces.csv')
     titan = pd.DataFrame(data=data)
 
     # --------------------TITLE----------------------------#
@@ -333,7 +332,7 @@ def main():
         # st.write(
         #     "Aquí se puede agregar el contenido de la Sobre el precio de los pasajes a los pasajeros.")
         # Títulos y nubes de palabras
-        st.image('img\wordcloud.png', use_column_width=True)
+        st.image('img/wordcloud.png', use_column_width=True)
 
 
 if __name__ == '__main__':
